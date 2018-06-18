@@ -175,7 +175,15 @@ The following reports are included with Configuration Manager. The reports appea
 |**Summary of Users who have Noncompliant Apps**|Displays information about users that have apps installed that are not compliant with a policy you specified.|  
 |**Terms and Conditions acceptance**|Displays Terms and Conditions items and which version each user has accepted.|  
 
-
+## Data warehouse   
+|Report name|Description|  
+|-----------------|-----------------| 
+|**Client push installation status summary for a specified site**|Displays a summary view of the client push installation status for a specified site.|  
+|**Client push installation status summary for a specified site**|Displays a summary view of the client push installation status for a specified site.|  
+|**Client push installation status summary for a specified site**|Displays a summary view of the client push installation status for a specified site.|  
+|**Client push installation status summary for a specified site**|Displays a summary view of the client push installation status for a specified site.|  
+|**Client push installation status summary for a specified site**|Displays a summary view of the client push installation status for a specified site.|  
+|**Client push installation status summary for a specified site**|Displays a summary view of the client push installation status for a specified site.|  
 
 ## Device Management  
 
